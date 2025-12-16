@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ホリデイ",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-16T13:58:31.740208Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フーリガンズ・ホリデイ",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/01_フーリガンズ・ホリデイ_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホリデイ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_ホリデイ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロッカ・ホリデイ",
+      "artist": "DOES",
+      "has_synced": false,
+      "path": "select/03_ロッカ・ホリデイ_DOES.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ホリデイ - スリラー「魔の休日」より",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/04_ホリデイ_-_スリラー「魔の休日」より_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ホリデイ (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_ホリデイ_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ホリデイ",
+      "artist": "Bump Of Chicken",
+      "has_synced": true,
+      "path": "select/06_ホリデイ_Bump_Of_Chicken.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "黄昏のサマー・ホリデイ",
+      "artist": "桑田佳祐",
+      "has_synced": true,
+      "path": "select/07_黄昏のサマー・ホリデイ_桑田佳祐.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "星空のビリー・ホリデイ",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/08_星空のビリー・ホリデイ_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "星空のビリー・ホリデイ [2024 Remaster]",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/09_星空のビリー・ホリデイ_[2024_Remaster]_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヱンド・オブ・ア・ホリデイ",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/10_ヱンド・オブ・ア・ホリデイ_Lamp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホリデイ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_ホリデイ_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
